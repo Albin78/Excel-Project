@@ -11,5 +11,5 @@
 - # Getting Started
 - - Can view by downloading the .xlsx file and view in Microsoft Excel
 ## Author
-Created by [Albin78]
-Github :[]
+Created by [Albin Shabu]
+Github :[https://github.com/Albin78]
