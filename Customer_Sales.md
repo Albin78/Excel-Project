@@ -7,7 +7,8 @@
 
 - Cleaned dataset for analysis of customer orders
 - Pivot tables for summarize of revenue by sum of quantity and the products
-- Line, bar charts and slicers for visual analysis
+- Line, bar charts and slicers for visual analysis![Customer_sales png](https://github.com/user-attachments/assets/26d7eebf-3e6b-497f-8820-c1e2761d03f9)
+
 
 - View or modify as needed
   
