@@ -7,7 +7,7 @@
 - The sheet also contains a bar chart and a line chart according to the pivot table
 - The Dashboard sheet gives the visualisation using bar chart, line charts and slicers
 - The charts are giving according visual analysis using slicer which helps in making or prediction of trends
-![People png](https://github.com/user-attachments/assets/cfc7eeda-03ef-495a-a29d-2bb937c1291e)
+![People_analysis png](https://github.com/user-attachments/assets/581dc6a5-b36b-40e3-afa8-b211f1509cb0)
 
 - # Getting Started
 - - Can view by downloading the .xlsx file and view in Microsoft Excel
